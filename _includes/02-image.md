@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![o2 Bubbke Robot](https://i.ytimg.com/vi/QdHrLK9dHow/maxresdefault.jpg)
